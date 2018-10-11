@@ -1,0 +1,13 @@
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\bin\Debug\AprJVMDemo.exe.config
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\bin\Debug\AprJVMDemo.exe
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\bin\Debug\AprJVMDemo.pdb
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\obj\x86\Debug\JVMDemo_UI.AprJVMUI.resources
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\obj\x86\Debug\AprJVMDemo.Properties.Resources.resources
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\obj\x86\Debug\AprJVMDemo.csproj.GenerateResource.Cache
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\obj\x86\Debug\AprJVMDemo.exe
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\obj\x86\Debug\AprJVMDemo.pdb
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\obj\x86\Debug\AprJVMDemo.csprojResolveAssemblyReference.cache

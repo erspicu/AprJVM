@@ -1,0 +1,13 @@
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\obj\x86\Debug\jvm.Form1.resources
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\obj\x86\Debug\jvm.Properties.Resources.resources
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\obj\x86\Debug\jvm.csproj.GenerateResource.Cache
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\bin\Debug\jvm.exe
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\bin\Debug\jvm.pdb
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\obj\x86\Debug\jvm.exe
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\obj\x86\Debug\jvm.pdb
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\obj\x86\Debug\jvm.csprojResolveAssemblyReference.cache
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\obj\x86\Debug\jvm.AprJVMUI.resources
+C:\Users\abraxas\Dropbox\jvm_dev\jvm\jvm\obj\x86\Debug\AprJVM.Properties.Resources.resources

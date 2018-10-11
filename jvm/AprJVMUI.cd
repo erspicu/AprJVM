@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="JVMDemo_UI.AprJVMUI">
+    <Position X="0.5" Y="0.5" Width="5.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="JVMDemo_UI.AprJVMUI.bytecode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprJVMUI.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ACAZAAAgACAAARAKAACDAQADBEB6AQAIAAIQAAAAQAA=</HashCode>
+      <FileName>AprJVMUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AprilJVM.AprJVM">
+    <Position X="7.25" Y="1" Width="3.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="AprilJVM.AprJVM.CONSTANT_Fieldref_info" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.CONSTANT_Methodref_info" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.Code_attribute" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.CONSTANT_Utf8_info" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.Synthetic_attribute" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.CONSTANT_Class_info" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.parameter" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.line_number" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.CONSTANT_Double_info" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.attribute_info" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.CONSTANT_String_info" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.SourceDebugExtension_attribute" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.large_numeric" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Enum Name="AprilJVM.AprJVM.ACC_flag" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="AprilJVM.AprJVM.Signature_attribute" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.CONSTANT_NameAndType_info" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.bootstrap_method" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.LocalVariableTable_attribute" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.Exceptions_attribute" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Class Name="AprilJVM.AprJVM.Frame" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Struct Name="AprilJVM.AprJVM.exception" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.local_variable" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.CONSTANT_Integer_info" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.CONSTANT_MethodType_info" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.LineNumberTable_attribute" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.number_of_classes" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.SourceFile_attribute" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.CONSTANT_InvokeDynamic_info" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.ConstantValue_attribute" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.InnerClasses_attribute" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.CONSTANT_Long_info" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.local_variable_type" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Class Name="AprilJVM.AprJVM.ReturnParam" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Struct Name="AprilJVM.AprJVM.Class_info" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.CONSTANT_MethodHandle_info" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.CONSTANT_Float_info" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.CONSTANT_InterfaceMethodref_info" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.Deprecated_attribute" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Enum Name="AprilJVM.AprJVM.CONSTANT_type" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="AprilJVM.AprJVM.EnclosingMethod_attribute" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.field_info" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.MethodParameters_attribute" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.method_info" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.BootstrapMethods_attribute" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="AprilJVM.AprJVM.LocalVariableTypeTable_attribute" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AprilJVM\AprilJVM.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IACAAAAAQAEAAAQAAAAAIAAAAAAAAAQAoIAAAAAAAAA=</HashCode>
+      <FileName>AprilJVM\AprilJVM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft JhengHei" Size="9" />
+</ClassDiagram>
